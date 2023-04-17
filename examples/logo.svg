@@ -1,0 +1,9 @@
+
+    <svg version="1.1" width="300" height="200" xmlns="http://www.w3.org/2000/svg">
+
+    <polygon points="90,75 210,75 210,195 90,195" fill="#0000ff" />
+
+    <text x="150" y="150" font-size="60" text-anchor="middle" fill="white">SRM</text>
+
+    </svg>
+    
